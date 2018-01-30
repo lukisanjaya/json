@@ -9,6 +9,7 @@
             "created_at"    : "2018-01-01 01:01:01",
             "updated_at"    : "2018-01-01 01:01:01"
         },
+        {
             "id"            : "2",
             "title"         : "Tutorial Jquery Dasar",
             "slug"          : "tutorial-jquery-dasar-qwe",
@@ -17,5 +18,9 @@
             "created_at"    : "2018-01-01 01:01:01",
             "updated_at"    : "2018-01-01 01:01:01"
         }
-    ]
+    ],
+    "comments": [
+        { "id": 1, "body": "some comment", "aricle_id": 1 },
+        { "id": 2, "body": "some comment", "aricle_id": 1 }
+    ],
 }
