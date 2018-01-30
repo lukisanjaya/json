@@ -22,5 +22,5 @@
     "comments": [
         { "id": 1, "body": "some comment", "aricle_id": 1 },
         { "id": 2, "body": "some comment", "aricle_id": 1 }
-    ],
+    ]
 }
